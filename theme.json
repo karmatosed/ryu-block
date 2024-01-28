@@ -68,12 +68,12 @@
 		"typography": {
 			"fontFamilies": [
 				{
-					"fontFamily": "Lato', serif",
+					"fontFamily": "Lato, serif",
 					"name": "Body Font",
 					"slug": "body-font"
 				},
 				{
-					"fontFamily": "Playfair Display', serif",
+					"fontFamily": "Playfair Display, serif",
 					"name": "Header Font",
 					"slug": "header-font"
 				}
